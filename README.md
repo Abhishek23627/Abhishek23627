@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Tech Developer | 👨‍💻 CSE Engineer | 💡 AI Innovator | 🌱 Sustainable Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+Tech+Development;Building+Future-ready+AI+Solutions;Lifelong+Learner+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=535&lines=Passionate+about+Tech+Development;Building+Future-ready+AI+Solutions;Lifelong+Learner+%26+Innovator" alt="Typing SVG" />
 </p>
 
 ---
