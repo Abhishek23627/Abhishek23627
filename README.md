@@ -14,7 +14,6 @@
 - 🌿 Working on **Plant Disease Detection for Sustainable Agriculture**   
 - 🛡️ Learning **Ethical Hacking** & exploring **Cybersecurity**  
 - 📈 Strong interest in **AI/ML, Cloud, DevOps, Full-Stack Development**
-
 ---
 
 ### 🧠 Projects That Matter
@@ -48,7 +47,9 @@
 - 🥈 **2nd Prize** in *Script to Startup* at Startup Cell, GEC West Champaran  
 - 💼 **Team Leader** during Web Dev Internship at Kaizensparktech  
 - 🧑‍💻 **Frontend & Backend Developer** with Cisco certifications  
-- 🌐 Completed Web Dev Internship at **CodSoft**  
+- 🌐 Completed Web Dev Internship at **CodSoft**
+- **AL&ML INTERNSHIP FROM THE NIELIT PATNA**
+- Developed an AI model for early Alzheimer’s disease detection, focusing on high accuracy for clinical relevance.
 
 ---
 
