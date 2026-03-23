@@ -29,7 +29,7 @@
   Analyzes typing patterns, facial expressions, and voice tone to detect emotional states and give personalized support.
   
 -🧠 **classifying Alzheimer’s stages from MRI scans**  
-  This research presents a 99.6% accurate ResNet-50 framework for classifying Alzheimer’s stages from MRI scans. By integrating Label Smoothing for precise boundary detection and Grad-CAM for visual explainability, the project transforms "black-box" AI into a transparent diagnostic tool, pinpointing neurological biomarkers to assist clinicians in early dementia detection.
+ - This research presents a 99.6% accurate ResNet-50 framework for classifying Alzheimer’s stages from MRI scans. By integrating Label Smoothing for precise boundary detection and Grad-CAM for visual explainability, the project transforms "black-box" AI into a transparent diagnostic tool, pinpointing neurological biomarkers to assist clinicians in early dementia detection.
 ---
 
 ### 🛠️ Tech Stack
