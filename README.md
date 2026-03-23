@@ -11,8 +11,7 @@
 
 - 🎓 Computer Science & Engineering Student  
 - 🧠 Building **AI-powered solutions** for real-world problems  
-- 🌿 Working on **Plant Disease Detection for Sustainable Agriculture**  
-- 🤖 Founder of **TechGenie** – AI-based virtual IT assistant  
+- 🌿 Working on **Plant Disease Detection for Sustainable Agriculture**   
 - 🛡️ Learning **Ethical Hacking** & exploring **Cybersecurity**  
 - 📈 Strong interest in **AI/ML, Cloud, DevOps, Full-Stack Development**
 
@@ -28,7 +27,9 @@
 
 - 🧠 **AI-Powered Mental Health Assistant**  
   Analyzes typing patterns, facial expressions, and voice tone to detect emotional states and give personalized support.
-
+  
+-🧠 **classifying Alzheimer’s stages from MRI scans**  
+  This research presents a 99.6% accurate ResNet-50 framework for classifying Alzheimer’s stages from MRI scans. By integrating Label Smoothing for precise boundary detection and Grad-CAM for visual explainability, the project transforms "black-box" AI into a transparent diagnostic tool, pinpointing neurological biomarkers to assist clinicians in early dementia detection.
 ---
 
 ### 🛠️ Tech Stack
